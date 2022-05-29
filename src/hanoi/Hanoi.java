@@ -9,7 +9,7 @@ import javax.swing.event.ChangeEvent;
 
 public class Hanoi {
 
-    JFrame frame = new JFrame("Artur Pas Gr3 Lab3 - Wieże hanoi");
+    JFrame frame = new JFrame("Artur Pas - Wieże hanoi");
     JSlider speed = new JSlider(1, 1000, 500);
     JButton run = new JButton("Uruchom");
     JButton step = new JButton("Krok");
